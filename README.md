@@ -13,7 +13,7 @@
   
   📫 How to reach me: **pusapatiramakrishnaraju4@gmail.com**
   
-  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1zI38tEIhYtQTEdaF9GMxTts5LL3StEgI/view?usp=sharing" target = "blank" rel="noopener noreferrer">Resume</a>
+  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1Q4HWdrbpyvTtFvT3rPelMOHytWcKhawr/view?usp=sharing" target = "blank" rel="noopener noreferrer">Resume</a>
   
   ⚡ Fun fact: **I am school level spellbee champion and love to play chess ♟️**
 
