@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rama Krishna Raju Pusapati</h1>
-<h3 align="center">MS Graduate Student in Computer Science at State University of New York at Buffalo</h3>
+<h3 align="center">MS Graduate Student in Computer Science at University at Buffalo</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prkraju2003&label=Profile%20views&color=0e75b6&style=flat" alt="prkraju2003" />
@@ -7,15 +7,15 @@
 
 <div align="center">
   
-  🌱 I’m currently learning **AWS-Solutions Architect Associate**
+  🌱 I’m currently learning **AWS Solutions Architect Associate**
   
-  💬 Ask me about **Python, AWS and AI**
+  💬 Ask me about **Python, AWS, and AI/ML**
   
-  📫 How to reach me **pusapatiramakrishnaraju4@gmail.com**
+  📫 How to reach me: **pusapatiramakrishnaraju4@gmail.com**
   
-  📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NvpuaElMYdFmvffzGXmXtJnPXM5Rvhh7/view?usp=sharing)
+  📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1NvpuaElMYdFmvffzGXmXtJnPXM5Rvhh7/view?usp=sharing)
   
-  ⚡ Fun fact **I am school level spellbee champion and love to play chess ♟️**
+  ⚡ Fun fact: **I am a school-level spellbee champion and love to play chess ♟️**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -25,8 +25,15 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</p>
 </div>
