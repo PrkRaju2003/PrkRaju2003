@@ -7,13 +7,13 @@
 
 <div align="center">
 
-  🌱 I’m currently learning **AWS-Solutions Architect Associate**
+  🌱 I’m currently working as a **AI Engineer - Handshake**
   
   💬 Ask me about **Python, AWS and AI**
   
   📫 How to reach me: **pusapatiramakrishnaraju4@gmail.com**
   
-  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1Q4HWdrbpyvTtFvT3rPelMOHytWcKhawr/view?usp=sharing" target = "blank" rel="noopener noreferrer">Resume</a>
+  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1-wr_e_8_9w9xFR_4eTjXV9lX0uBD8e2f/view?usp=sharing" target = "blank" rel="noopener noreferrer">Resume</a>
   
   ⚡ Fun fact: **I am school level spellbee champion and love to play chess ♟️**
 
